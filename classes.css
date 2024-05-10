@@ -1,0 +1,56 @@
+.Título{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px #CE5937;
+}
+
+.foto{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.foto:hover{
+    height: 220px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+.foto2{
+    height: 275px;
+    width: 275px;
+    border-radius: 20px;
+}
+
+.foto2:hover{
+    height: 295px;
+    width: 295px;
+    border-radius: 20px;
+}
+
+.Junção{
+    display: inline-block;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.centralizarTítulo{
+    text-align: center;
+    display: inline-block;
+}
+
+.texto{
+    font-size: 30px;
+}
+
+.Index{
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+.nomes{
+    font-size: 40px;
+    text-shadow: 2px 2px 2px #CE5937;
+}
+
+
